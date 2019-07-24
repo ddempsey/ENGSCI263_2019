@@ -7,11 +7,10 @@ These Jupyter notebooks supplement teaching of key model design concepts.
 
 ## Getting Started
 
-Download and unzip a local copy of this library. Open a Jupyter Notebook server and then open intro/intro.ipynb.
+Download and unzip a local copy of this library. Open a Jupyter Notebook server and then open calibration/calibration.ipynb.
 
 Alternatively, clone a copy of this library into your Microsoft Azure Account.
 
 ## Authors
 
 **David Dempsey**
-**Colin Simpson**
